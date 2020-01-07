@@ -1,4 +1,4 @@
-package loops;
+
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 // after every user input, calculate Augustus's new belly status and display to user, then ask for their user input again
 // make sure that Augustus isn't fed too much.
 
-public class Chocolate {
+public class Chocolate_2 {
 
 	public static void main(String[] args) {
 		

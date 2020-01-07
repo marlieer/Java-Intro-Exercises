@@ -1,4 +1,4 @@
-package variables_and_datatypes;
+
 import java.util.Scanner;
 
 // write a program that predicts how long it takes Augustus Gloop to eat chocolate
@@ -8,7 +8,7 @@ import java.util.Scanner;
 // he takes 3 minutes to eat 1 white chocolate bar
 // he cannot eat chocolate bars simultaneously
 
-public class Chocolate {
+public class Chocolate_1 {
 
 	public static void main(String[] args) {
 		

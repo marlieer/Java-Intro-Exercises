@@ -1,4 +1,4 @@
-package methods;
+
 
 	import java.util.Scanner;
 
@@ -7,7 +7,7 @@ package methods;
 	// no interest rate for the first 6 months. Interest is 2% per month after that.
 	// minimum payment is %5 of the debt value or $300. Whichever is higher
 
-	public class Student_Loans {
+	public class Student_Loans_2 {
 		
 		static int months = 0;
 
