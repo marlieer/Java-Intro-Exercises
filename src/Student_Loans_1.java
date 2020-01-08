@@ -25,8 +25,11 @@ public class Student_Loans_1
 		// six months of interest free payments
 		if (sixMonths > 0) 
 		{
+		  // if 5% of debt is greater than $300, minimum payment on debt is debt*5%
 		  if (debt * 0.05 > 300)
 			debt -= debt*0.05;
+		  
+		  // if $300 is greater than 5% of debt, minimum payment on debt is $300
 		  else
 			debt -= 300;
 		  sixMonths -= 1;
@@ -36,8 +39,10 @@ public class Student_Loans_1
 		// payments with interest
 		else
 		{
+		  // if 5% of debt is greater than $300, minimum payment on debt is debt*5%
 		  if (debt * 0.05 > 300)
 			debt -= debt*0.05;
+		  // if $300 is greater than 5% of debt, minimum payment on debt is $300
 		  else
 			debt -= 300;
 		  debt = debt * 1.02;
