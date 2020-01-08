@@ -1,0 +1,33 @@
+Variables and Data Types
+Chocolate_1
+
+Intro: 
+Augustus Gloop is a character from Charlie and the Chocolate Factory who loves to eat
+
+Assignment:
+Write a program that computes how long it will take Augustus Gloop to each a user-specified amount of chocolate
+The user will determine how many milk, white and dark chocolate bars Augustus will eat
+
+Assumptions:
+It takes Augustus 2 minutes to eat a milk chocolate bar
+It takes Augustus 5 minutes to eat a dark chocolate bar
+It takes Augustus 3 minutes to eat a white chocolate bar
+He can only eat one chocolate bar at a time
+
+Grading:
+1) [2pts] Commenting
+	-1 missing comment for overall program or it doesn't make sense
+	-1 missing comment for logic/calculations or they don't make sense
+2) [2pts] Variables
+	-1 no variables declared at all
+	-1 names are not representative of the variable
+3) [2pts] Computations
+	-1 mis-assigned minute tolls to chocolate bars (ex. computed 5 minutes for a milk chocolate bar)
+	-1 attempted to compute total time, but mis-calculated
+4) [5pts] User Input
+	-1 does not import Scanner library correctly
+	-1 does not create Scanner object variable
+	-1 does not take input from user with correct method
+	-1 displays result to user poorly
+	-1 syntax error (spelling, capitalization, puctuation)
+	
